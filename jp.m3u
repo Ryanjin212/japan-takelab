@@ -26,6 +26,17 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 
 #DTV2 (vthanh)
 
+
+#EXTINF:-1 group-title="CS" tvg-id="KayoPops.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+http://vthanh.utako.moe/kayopops/index.m3u8
+
+
+#EXTINF:-1 group-title="CS" tvg-id="CartoonNetwork.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
+http://vthanh.utako.moe/cartoon_network/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanh)",NHK総合 東京 (vthanh)
 http://vthanh.utako.moe/NHK_G/index.m3u8
 
