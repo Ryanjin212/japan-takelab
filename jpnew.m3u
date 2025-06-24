@@ -33,12 +33,6 @@ http://vthanh.utako.moe/kayopops/index.m3u8
 http://vthanh.utako.moe/cartoon_network/index.m3u8
 
 
-#EXTINF:-1 group-title="CS" tvg-id="KayoPops.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
-http://vthanh.utako.moe/kayopops/index.m3u8
-
-
-#EXTINF:-1 group-title="CS" tvg-id="CartoonNetwork.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
-http://vthanh.utako.moe/cartoon_network/index.m3u8
 
 
 
